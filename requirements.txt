@@ -18,3 +18,5 @@ fastrtc-whisper-cpp
 elevenlabs
 websocket-client
 pyaudio
+FastAPI
+twilio
