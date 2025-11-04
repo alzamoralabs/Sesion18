@@ -17,3 +17,4 @@ fastrtc[stt]
 fastrtc-whisper-cpp
 elevenlabs
 websocket-client
+pyaudio
